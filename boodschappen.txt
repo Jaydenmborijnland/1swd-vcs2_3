@@ -7,3 +7,5 @@ water
 pindakaas
 pepernoten
 wcpapier
+doekjes
+rollade
